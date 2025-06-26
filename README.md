@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TerminalShapes
 
 [![image](https://i.imgur.com/qES28n4.png)](https://shapes.inc/slack)
@@ -149,3 +150,6 @@ npm run clean        # Clean build directory
 ## License
 
 MIT. Build cool things with it.
+=======
+# TerminalShapes
+>>>>>>> 0b26007329dc2bfa5d198553886eaee523717a86
